@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-
+a3da we yekhlas
 
 // Students strcture
 struct Students
